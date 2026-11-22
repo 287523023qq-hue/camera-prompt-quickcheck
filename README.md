@@ -8,6 +8,8 @@
 
 Stop burning $0.50–$2.00 per failed generation clip because `"zoom in dramatically cinematic"` causes background rubber-banding or horizon drift.
 
+> **Try it live in your browser (zero install):** **[Interactive Camera Prompt QuickCheck Playground →](https://287523023qq-hue.github.io/ai-cinematic-skills/#quickcheck)**
+
 ## What It Catches (`C01`–`C06`)
 
 1. **`C01` Missing Primary Mechanism**: Catches prompts with no physical camera action (`dolly`, `truck`, `pan`, `tilt`, `orbit`, `pedestal`, `rack focus`, `locked tripod`).
@@ -34,4 +36,4 @@ Need a complete **7-slot Hollywood motion contract compiler** + **4-view charact
 - **4-in-1 Official Bundle — `$9.99` (Save 41% / $6.98 off):** [AI Game & Visual Asset Studio Suite](https://www.agensi.io/r/CREATOR980D20B?to=/bundles/ai-game-visual-asset-studio-suite&utm_source=github_quickcheck)
 - **Limited-Time Deal — `$5.00` (-28%, ends in 7 days):** [Character Creation Studio](https://www.agensi.io/r/CREATOR980D20B?to=/skills/character-creation-studio&utm_source=github_quickcheck)
 - **Standalone Camera Contract Skill (`$3.99`):** [Cinematic Shot Prompting](https://www.agensi.io/r/CREATOR980D20B?to=/skills/cinematic-shot-prompting&utm_source=github_quickcheck)
-- **Live Interactive Showcase:** [AI Cinematic Skills Showcase](https://287523023qq-hue.github.io/ai-cinematic-skills/)
+- **Live Interactive Playground & Showcase:** [AI Cinematic Skills (`#quickcheck`)](https://287523023qq-hue.github.io/ai-cinematic-skills/#quickcheck)
