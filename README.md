@@ -3,11 +3,13 @@
 > Instant deterministic pre-flight linter for AI video prompts (Runway Gen-4, Kling 2.6, Sora 2, Veo 3, Seedance). Zero API dependencies, pure Python stdlib.
 
 [![Upstream](https://img.shields.io/badge/claude--skills_v2.14.15-Contributor-6366f1?style=flat-square)](https://github.com/alirezarezvani/claude-skills/releases/tag/v2.14.15)
-[![Agensi](https://img.shields.io/badge/Agensi-Free_Skill-10b981?style=flat-square)](https://www.agensi.io/r/CREATOR980D20B?to=/creators/creator-980&utm_source=github_quickcheck)
+[![Agensi](https://img.shields.io/badge/Agensi-Free_Skill_Live-10b981?style=flat-square)](https://www.agensi.io/r/CREATOR980D20B?to=/skills/camera-prompt-quickcheck&utm_source=github_quickcheck)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)
 
 Stop burning $0.50–$2.00 per failed generation clip because `"zoom in dramatically cinematic"` causes background rubber-banding or horizon drift.
 
+> **Install free on Agensi (one-click, verified):** **[Camera Prompt QuickCheck on Agensi →](https://www.agensi.io/r/CREATOR980D20B?to=/skills/camera-prompt-quickcheck&utm_source=github_quickcheck)**
+>
 > **Try it live in your browser (zero install):** **[Interactive Camera Prompt QuickCheck Playground →](https://287523023qq-hue.github.io/ai-cinematic-skills/#quickcheck)**
 
 ## What It Catches (`C01`–`C06`)
