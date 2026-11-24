@@ -21,6 +21,12 @@ Stop burning $0.50–$2.00 per failed generation clip because `"zoom in dramatic
 5. **`C05` Missing Subject / Horizon Lock**: Catches unanchored shots likely to drift off-subject.
 6. **`C06` Missing End-Settle State**: Flags clips with no terminal rest frame or reveal.
 
+## Quick Install (Claude Code / Cursor / Codex / Antigravity)
+
+```bash
+npx skills add 287523023qq-hue/camera-prompt-quickcheck
+```
+
 ## Quick Run
 
 ```bash
