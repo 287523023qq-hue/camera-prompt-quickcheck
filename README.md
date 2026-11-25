@@ -30,8 +30,13 @@ npx skills add 287523023qq-hue/camera-prompt-quickcheck
 ## Quick Run
 
 ```bash
-python3 scripts/lint_camera_prompt.py "Cinematic epic zoom in on detective face."
-python3 scripts/lint_camera_prompt.py --json "Slow steady dolly in..."
+# Pass arbitrary untrusted prompt text safely as stdin data (no shell quoting hazards)
+printf '%s\n' 'Cinematic epic zoom in on detective face.' | python3 scripts/lint_camera_prompt.py --stdin
+
+# JSON output via direct argument vector
+python3 scripts/lint_camera_prompt.py --json 'Slow steady dolly in from a medium shot, keeping horizon level and settling on a close-up.'
+
+# Run unit tests
 python3 -m unittest discover -s tests -v
 ```
 
